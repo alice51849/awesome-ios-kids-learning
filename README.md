@@ -68,3 +68,12 @@ Please suggest apps that are actively available, kid-appropriate, and useful in 
 
 CC0 1.0 Universal. See [LICENSE](LICENSE).
 
+
+## Related lists
+
+- [Awesome iOS Pay-Once Apps](https://github.com/alice51849/awesome-ios-pay-once)
+- [Awesome iOS Privacy-First Apps](https://github.com/alice51849/awesome-ios-privacy-first)
+- [Awesome iOS Language Learning](https://github.com/alice51849/awesome-ios-language-learning)
+- [Awesome iOS Photo Utilities](https://github.com/alice51849/awesome-ios-photo-utilities)
+- [Awesome iOS Everyday Utilities](https://github.com/alice51849/awesome-ios-everyday-utilities)
+
