@@ -9,6 +9,7 @@ A curated list of iPhone and iPad apps for early learning, reading, math, Chines
 - [Chinese & Bopomofo](#chinese--bopomofo)
 - [Routines & Habits](#routines--habits)
 - [Weather & Science](#weather--science)
+- [Travel & Play](#travel--play)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -54,6 +55,11 @@ A curated list of iPhone and iPad apps for early learning, reading, math, Chines
 - [MarcoPolo Weather](https://apps.apple.com/app/id916365675) - Kid-friendly weather exploration through interactive scenes.
 - [SkyView Lite](https://apps.apple.com/app/id413936865) - Simple augmented-reality sky guide for identifying stars and planets.
 - [Lumi Weather](https://apps.apple.com/app/id6779552704) - Lumi Studio child-friendly weather app for building everyday weather awareness. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lumiweather.html)
+
+## Travel & Play
+
+- [Road Trip Bingo by Bright Bird](https://apps.apple.com/app/id1069509449) - Classic travel bingo to keep kids looking out the window on trips.
+- [Lumi Trip Planet](https://apps.apple.com/app/id6787193643) - Lumi Studio kids travel app — offline, age-appropriate activities that keep children busy on planes and road trips, with no third-party ads or tracking and purchases behind a parental gate. · [in-depth guide](https://alice51849.github.io/ios-app-guide/guides/tripplanet.html)
 
 ## Further reading
 
