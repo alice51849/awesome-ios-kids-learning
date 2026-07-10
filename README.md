@@ -70,16 +70,23 @@ A curated list of iPhone and iPad apps for early learning, reading, math, Chines
 
 Please suggest apps that are actively available, kid-appropriate, and useful in a specific learning context. Include an App Store link, age range if known, and a factual one-line description. This list is not a ranking and does not accept paid placements.
 
+## Related lists
+
+Part of a family of curated, pay-once / privacy-first iOS app lists:
+
+- [Awesome iOS Language Learning](https://github.com/alice51849/awesome-ios-language-learning)
+- [Awesome iOS Photo Utilities](https://github.com/alice51849/awesome-ios-photo-utilities)
+- [Awesome iOS Everyday Utilities](https://github.com/alice51849/awesome-ios-everyday-utilities)
+- [Awesome iOS For Students](https://github.com/alice51849/awesome-ios-for-students)
+- [Awesome iOS Privacy-First](https://github.com/alice51849/awesome-ios-privacy-first)
+- [Awesome iOS Pay-Once](https://github.com/alice51849/awesome-ios-pay-once)
+- [Awesome iOS Health & Wellness](https://github.com/alice51849/awesome-ios-health-wellness)
+- [Awesome iOS Money & Budgeting](https://github.com/alice51849/awesome-ios-money-budgeting)
+
+For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://alice51849.github.io/ios-app-guide/)**.
+
 ## License
 
 CC0 1.0 Universal. See [LICENSE](LICENSE).
 
-
-## Related lists
-
-- [Awesome iOS Pay-Once Apps](https://github.com/alice51849/awesome-ios-pay-once)
-- [Awesome iOS Privacy-First Apps](https://github.com/alice51849/awesome-ios-privacy-first)
-- [Awesome iOS Language Learning](https://github.com/alice51849/awesome-ios-language-learning)
-- [Awesome iOS Photo Utilities](https://github.com/alice51849/awesome-ios-photo-utilities)
-- [Awesome iOS Everyday Utilities](https://github.com/alice51849/awesome-ios-everyday-utilities)
 
