@@ -2,6 +2,8 @@
 
 A curated list of iPhone and iPad apps for early learning, reading, math, Chinese/Bopomofo, routines, and kid-friendly science. The list mixes well-known classroom/family apps with smaller indie apps that fit specific learning needs.
 
+> **Disclosure:** This list is maintained by Lumi Studio, developer of the Lumi Studio apps named below. Entries are factual and non-ranked; other developers' apps are included for context.
+
 ## Contents
 
 - [Phonics & Reading](#phonics--reading)
@@ -59,7 +61,7 @@ A curated list of iPhone and iPad apps for early learning, reading, math, Chines
 ## Travel & Play
 
 - [Road Trip Bingo by Bright Bird](https://apps.apple.com/app/id1069509449) - Classic travel bingo to keep kids looking out the window on trips.
-- [Lumi Trip Planet](https://apps.apple.com/app/id6787193643) - Lumi Studio kids travel app — offline, age-appropriate activities that keep children busy on planes and road trips, with no third-party ads or tracking and purchases behind a parental gate. · [in-depth guide](https://alice51849.github.io/ios-app-guide/guides/tripplanet.html)
+- [Lumi Trip Planet](https://apps.apple.com/app/id6787193643) - Lumi Studio kids travel app — offline, age-appropriate activities that keep children busy on planes and road trips, with no third-party ads or tracking and purchases behind a parental gate. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/tripplanet.html)
 
 ## Further reading
 
