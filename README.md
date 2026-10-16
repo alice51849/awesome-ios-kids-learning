@@ -61,7 +61,7 @@ A curated list of iPhone and iPad apps for early learning, reading, math, Chines
 ## Travel & Play
 
 - [Road Trip Bingo by Bright Bird](https://apps.apple.com/app/id1069509449) - Classic travel bingo to keep kids looking out the window on trips.
-- [Lumi Trip Planet](https://apps.apple.com/app/id6787193643) - Lumi Studio kids travel app — offline, age-appropriate activities that keep children busy on planes and road trips, with no third-party ads or tracking and purchases behind a parental gate. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/tripplanet.html)
+- [Lumi Trip Planet](https://apps.apple.com/app/id6787193643) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.TripPlanet)) - Lumi Studio kids travel app — offline, age-appropriate activities that keep children busy on planes and road trips, with no third-party ads or tracking and purchases behind a parental gate. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/tripplanet.html)
 
 ## Further reading
 
