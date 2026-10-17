@@ -56,7 +56,7 @@ A curated list of iPhone and iPad apps for early learning, reading, math, Chines
 - [The Human Body by Tinybop](https://apps.apple.com/app/id682046579) - Interactive introduction to body systems for curious kids.
 - [MarcoPolo Weather](https://apps.apple.com/app/id916365675) - Kid-friendly weather exploration through interactive scenes.
 - [SkyView Lite](https://apps.apple.com/app/id413936865) - Simple augmented-reality sky guide for identifying stars and planets.
-- [Lumi Weather](https://apps.apple.com/app/id6779552704) - Lumi Studio child-friendly weather app for building everyday weather awareness. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/lumiweather.html)
+- [Lumi Weather](https://apps.apple.com/app/id6779552704) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.LumiWeather)) - Lumi Studio child-friendly weather app for building everyday weather awareness. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/lumiweather.html)
 
 ## Travel & Play
 
