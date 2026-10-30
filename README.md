@@ -47,6 +47,7 @@ A curated list of iPhone and iPad apps for early learning, reading, math, Chines
 - [Brili Routines](https://apps.apple.com/app/id1050204218) - Visual routine manager designed to help kids follow daily tasks.
 - [Happy Kids Timer](https://apps.apple.com/app/id928895246) - Timer-based morning and bedtime routine app for children.
 - [Joon](https://apps.apple.com/app/id1482225727) - Habit and task app that turns routines into a kid-friendly game.
+- [Ripple](https://ripplefocus.github.io/) - Free screen-time tool for parents on iPhone (iOS 16+) and Android. Blocks short-video and game apps during homework and bedtime through Apple's Screen Time API, keeps itself from being deleted, ignores clock changes, and needs an 8-digit parent code to loosen rules. On-device, no account, no ads. The iOS build is a direct IPA download from the website, not the App Store.
 - [Lumi Mission Planet](https://apps.apple.com/app/id6779750237) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.lumimissionlite)) - Lumi Studio app for kid-friendly missions, routines, and habit building. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/lumimission.html)
 - [Lumi Mission Planet Pro](https://apps.apple.com/app/id6779745474) ([Google Play](https://play.google.com/store/apps/details?id=com.lumi.mochimissionplanet)) - Lumi Studio pro version for expanded routine and mission features. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/lumimissionpro.html)
 
